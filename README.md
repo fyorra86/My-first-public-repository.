@@ -6,3 +6,4 @@ Reviewing proof of work differences.
 Exploring cross chain messaging systems.
 Studying price feed mechanisms.
 Learning about on chain transparency.
+Reviewing blockchain governance case studies.
