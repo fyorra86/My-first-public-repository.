@@ -11,3 +11,4 @@ Studying ERC20 basics
 Researching liquidity pools
 Studying DAO treasury
 Studying network sync
+Exploring DeFi security
