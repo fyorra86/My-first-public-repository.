@@ -12,3 +12,4 @@ Researching liquidity pools
 Studying DAO treasury
 Studying network sync
 Exploring DeFi security
+Studying zk rollups
