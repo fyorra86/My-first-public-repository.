@@ -28,3 +28,5 @@ Exploring DeFi security
 Studying zk rollups
 
 Reviewing exploits
+
+Studying smart contract logs
