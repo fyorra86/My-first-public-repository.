@@ -30,3 +30,5 @@ Studying zk rollups
 Reviewing exploits
 
 Studying smart contract logs
+
+Reviewing networks
