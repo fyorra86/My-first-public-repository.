@@ -32,3 +32,5 @@ Reviewing exploits
 Studying smart contract logs
 
 Reviewing networks
+
+Writing markdown notes
