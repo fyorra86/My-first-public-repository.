@@ -38,3 +38,5 @@ Writing markdown notes
 Updating documentation
 
 Refining documentation
+
+Improving headings
