@@ -1,42 +1,23 @@
 # My-first-public-repository.
-Started my open source journey.
-
-Reviewing test coverage strategies.
-
-Improving understanding of encryption basics.
-
-Reviewing proof of work differences.
-
-Exploring cross chain messaging systems.
-
-Studying price feed mechanisms.
-
-Learning about on chain transparency.
-
-Reviewing blockchain governance case studies.
-
-Studying ERC20 basics
-
-Researching liquidity pools
-
-Studying DAO treasury
-
-Studying network sync
-
-Exploring DeFi security
-
-Studying zk rollups
-
-Reviewing exploits
-
-Studying smart contract logs
-
-Reviewing networks
-
-Writing markdown notes
-
-Updating documentation
-
-Refining documentation
-
-Improving headings
+- Started my open source journey
+- Reviewing test coverage strategies
+- Improving understanding of encryption basics.
+- Reviewing proof of work differences.
+- Exploring cross chain messaging systems.
+- Studying price feed mechanisms.
+- Learning about on chain transparency.
+- Reviewing blockchain governance case studies.
+- Studying ERC20 basics
+- Researching liquidity pools
+- Studying DAO treasury
+- Studying network sync
+- Exploring DeFi security
+- Studying zk rollups
+- Reviewing exploits
+- Studying smart contract logs
+- Reviewing networks
+- Writing markdown notes
+- Updating documentation
+- Refining documentation
+- Improving headings
+- Studying Web3 ecosystem
