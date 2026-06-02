@@ -21,3 +21,4 @@
 - Refining documentation
 - Improving headings
 - Studying Web3 ecosystem
+- Learning zk basics
