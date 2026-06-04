@@ -23,3 +23,4 @@
 - Studying Web3 ecosystem
 - Learning zk basics
 - Exploring DeFi models
+- Studying validators
