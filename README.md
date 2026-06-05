@@ -24,3 +24,4 @@
 - Learning zk basics
 - Exploring DeFi models
 - Studying validators
+- Reviewing gas usage
