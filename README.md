@@ -25,3 +25,4 @@
 - Exploring DeFi models
 - Studying validators
 - Reviewing gas usage
+- Studying security models
