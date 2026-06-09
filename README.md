@@ -26,3 +26,4 @@
 - Studying validators
 - Reviewing gas usage
 - Studying security models
+- Refining docs
