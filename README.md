@@ -29,3 +29,4 @@
 - Refining docs
 - Adding insights
 - Adding updates
+- Adding details
