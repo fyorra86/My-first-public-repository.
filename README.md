@@ -30,3 +30,4 @@
 - Adding insights
 - Adding updates
 - Adding details
+- Refining layout
