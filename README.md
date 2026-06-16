@@ -31,3 +31,4 @@
 - Adding updates
 - Adding details
 - Refining layout
+- Improving my Git workflow step by step.
