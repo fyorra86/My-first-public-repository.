@@ -33,3 +33,4 @@
 - Refining layout
 - Improving my Git workflow step by step.
 - Organizing project structure properly.
+- Writing technical learning notes.
