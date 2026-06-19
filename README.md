@@ -34,3 +34,4 @@
 - Improving my Git workflow step by step.
 - Organizing project structure properly.
 - Writing technical learning notes.
+- Exploring Ethereum Virtual Machine concepts.
