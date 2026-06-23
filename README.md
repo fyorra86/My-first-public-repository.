@@ -35,3 +35,4 @@
 - Organizing project structure properly.
 - Writing technical learning notes.
 - Exploring Ethereum Virtual Machine concepts.
+- Studying ERC-20 fundamentals.
