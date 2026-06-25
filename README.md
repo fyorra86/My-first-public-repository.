@@ -37,3 +37,4 @@
 - Exploring Ethereum Virtual Machine concepts.
 - Studying ERC-20 fundamentals.
 - Exploring Layer 2 technologies.
+- Reviewing transaction lifecycle.
