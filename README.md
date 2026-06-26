@@ -38,3 +38,4 @@
 - Studying ERC-20 fundamentals.
 - Exploring Layer 2 technologies.
 - Reviewing transaction lifecycle.
+- Reviewing secure coding practices.
