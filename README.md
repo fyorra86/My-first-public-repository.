@@ -39,3 +39,4 @@
 - Exploring Layer 2 technologies.
 - Reviewing transaction lifecycle.
 - Reviewing secure coding practices.
+- Improving repository readability.
