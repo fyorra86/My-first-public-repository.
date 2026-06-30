@@ -40,3 +40,4 @@
 - Reviewing transaction lifecycle.
 - Reviewing secure coding practices.
 - Improving repository readability.
+- Studying cryptographic fundamentals.
