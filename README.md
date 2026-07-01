@@ -41,3 +41,4 @@
 - Reviewing secure coding practices.
 - Improving repository readability.
 - Studying cryptographic fundamentals.
+- Adding final refinements to documentation.
