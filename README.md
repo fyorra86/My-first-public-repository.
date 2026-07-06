@@ -42,3 +42,4 @@
 - Improving repository readability.
 - Studying cryptographic fundamentals.
 - Adding final refinements to documentation.
+- Expanding my knowledge in blockchain architecture.
