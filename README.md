@@ -45,3 +45,4 @@
 - Expanding my knowledge in blockchain architecture.
 - Reviewing common Web3 vulnerabilities.
 - Adding more development reflections.
+- Exploring token vesting mechanisms.
