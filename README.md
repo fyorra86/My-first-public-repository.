@@ -47,3 +47,4 @@
 - Adding more development reflections.
 - Exploring token vesting mechanisms.
 - Reviewing MIT vs GPL differences.
+- Learning about mock contracts.
