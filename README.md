@@ -48,3 +48,4 @@
 - Exploring token vesting mechanisms.
 - Reviewing MIT vs GPL differences.
 - Learning about mock contracts.
+- Learning about proof of stake design.
