@@ -49,3 +49,4 @@
 - Reviewing MIT vs GPL differences.
 - Learning about mock contracts.
 - Learning about proof of stake design.
+- Exploring full stack Web3 architecture.
