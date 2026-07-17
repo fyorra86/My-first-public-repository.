@@ -50,3 +50,4 @@
 - Learning about mock contracts.
 - Learning about proof of stake design.
 - Exploring full stack Web3 architecture.
+- Improving overall repository organization.
