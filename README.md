@@ -54,3 +54,4 @@
 - Learning about smart contracts.
 - Exploring blockchain fundamentals.
 - Adding development roadmap ideas.
+- Documenting development goals.
