@@ -57,3 +57,4 @@
 - Documenting development goals.
 - Writing better technical summaries.
 - Understanding blockchain explorers.
+- Improving commit discipline.
