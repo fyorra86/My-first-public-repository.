@@ -58,3 +58,4 @@
 - Writing better technical summaries.
 - Understanding blockchain explorers.
 - Improving commit discipline.
+- Structuring development tasks better.
