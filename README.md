@@ -59,3 +59,4 @@
 - Understanding blockchain explorers.
 - Improving commit discipline.
 - Structuring development tasks better.
+- Studying API documentation structure.
