@@ -60,3 +60,4 @@
 - Improving commit discipline.
 - Structuring development tasks better.
 - Studying API documentation structure.
+- Studying cryptographic fundamentals.
