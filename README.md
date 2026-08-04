@@ -62,3 +62,4 @@
 - Studying API documentation structure.
 - Studying cryptographic fundamentals.
 - Continuing my open source development journey
+- Improving understanding of decentralized storage.
