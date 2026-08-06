@@ -64,3 +64,4 @@
 - Continuing my open source development journey
 - Improving understanding of decentralized storage.
 - Reviewing blockchain scalability tradeoffs.
+- Learning about open source licenses.
