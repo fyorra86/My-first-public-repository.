@@ -65,3 +65,4 @@
 - Improving understanding of decentralized storage.
 - Reviewing blockchain scalability tradeoffs.
 - Learning about open source licenses.
+- Reviewing test coverage strategies.
