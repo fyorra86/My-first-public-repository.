@@ -67,3 +67,4 @@
 - Learning about open source licenses.
 - Reviewing test coverage strategies.
 - Studying network latency impacts.
+- Reviewing smart contract automation.
