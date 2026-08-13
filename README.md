@@ -69,3 +69,4 @@
 - Studying network latency impacts.
 - Reviewing smart contract automation.
 - Reviewing developer tooling improvements.
+- Learning version control
