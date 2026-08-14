@@ -70,3 +70,4 @@
 - Reviewing smart contract automation.
 - Reviewing developer tooling improvements.
 - Learning version control
+- Reviewing security
