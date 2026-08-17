@@ -71,3 +71,4 @@
 - Reviewing developer tooling improvements.
 - Learning version control
 - Reviewing security
+- Learning oracle basics
