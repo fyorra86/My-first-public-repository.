@@ -72,3 +72,4 @@
 - Learning version control
 - Reviewing security
 - Learning oracle basics
+- Learning about nodes
