@@ -73,3 +73,4 @@
 - Reviewing security
 - Learning oracle basics
 - Learning about nodes
+- Studying blockchain nodes
