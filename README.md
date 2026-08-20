@@ -74,3 +74,4 @@
 - Learning oracle basics
 - Learning about nodes
 - Studying blockchain nodes
+- Learning about bridges
