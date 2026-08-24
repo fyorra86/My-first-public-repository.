@@ -76,3 +76,4 @@
 - Studying blockchain nodes
 - Learning about bridges
 - Studying token models
+- Reviewing governance tokens
