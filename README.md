@@ -78,3 +78,4 @@
 - Studying token models
 - Reviewing governance tokens
 - Reviewing exploits
+- Reviewing DAO governance
