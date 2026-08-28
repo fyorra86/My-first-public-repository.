@@ -79,3 +79,4 @@
 - Reviewing governance tokens
 - Reviewing exploits
 - Reviewing DAO governance
+- Reviewing backend logic
