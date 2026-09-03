@@ -80,3 +80,4 @@
 - Reviewing exploits
 - Reviewing DAO governance
 - Reviewing backend logic
+- Tracking milestones
