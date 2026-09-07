@@ -81,3 +81,4 @@
 - Reviewing DAO governance
 - Reviewing backend logic
 - Tracking milestones
+- Updating markdown
