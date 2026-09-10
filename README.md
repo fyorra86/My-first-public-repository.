@@ -83,3 +83,4 @@
 - Tracking milestones
 - Updating markdown
 - Updating reflections
+- Improving readability
