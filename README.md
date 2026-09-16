@@ -85,3 +85,4 @@
 - Updating reflections
 - Improving readability
 - Improving markdown
+- Learning RPC basics
