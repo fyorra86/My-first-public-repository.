@@ -86,3 +86,4 @@
 - Improving readability
 - Improving markdown
 - Learning RPC basics
+- Exploring DeFi models
