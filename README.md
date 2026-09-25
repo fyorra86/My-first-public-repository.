@@ -87,3 +87,4 @@
 - Improving markdown
 - Learning RPC basics
 - Exploring DeFi models
+- Exploring DeFi models
