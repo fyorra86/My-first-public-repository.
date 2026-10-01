@@ -90,3 +90,6 @@
 - Exploring DeFi models
 - Exploring bridges
 - Exploring cross chain
+
+## October
+- Studying security models
