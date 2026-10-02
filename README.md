@@ -93,3 +93,4 @@
 
 ## October
 - Studying security models
+- Researching Web3 development tools.
