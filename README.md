@@ -95,3 +95,4 @@
 - Studying security models
 - Researching Web3 development tools.
 - Practicing consistent commit messages.
+- Studying Solidity basics.
