@@ -97,3 +97,4 @@
 - Practicing consistent commit messages.
 - Studying Solidity basics.
 - Researching DeFi protocols.
+- Learning about token standards.
