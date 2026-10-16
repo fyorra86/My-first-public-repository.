@@ -98,3 +98,4 @@
 - Studying Solidity basics.
 - Researching DeFi protocols.
 - Learning about token standards.
+- Exploring Layer 2 technologies.
