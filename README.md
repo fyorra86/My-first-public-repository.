@@ -100,3 +100,4 @@
 - Learning about token standards.
 - Exploring Layer 2 technologies.
 - Reviewing transaction lifecycle.
+- Understanding common smart contract risks.
