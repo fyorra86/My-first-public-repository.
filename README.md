@@ -102,3 +102,4 @@
 - Reviewing transaction lifecycle.
 - Understanding common smart contract risks.
 - Adding learning reflections.
+- Studying cryptographic fundamentals.
