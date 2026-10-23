@@ -103,3 +103,4 @@
 - Understanding common smart contract risks.
 - Adding learning reflections.
 - Studying cryptographic fundamentals.
+- Improving commit message clarity.
