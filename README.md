@@ -104,3 +104,4 @@
 - Adding learning reflections.
 - Studying cryptographic fundamentals.
 - Improving commit message clarity.
+- Learning about Merkle trees.
