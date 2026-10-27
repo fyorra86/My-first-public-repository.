@@ -105,3 +105,4 @@
 - Studying cryptographic fundamentals.
 - Improving commit message clarity.
 - Learning about Merkle trees.
+- Studying reentrancy attack patterns.
