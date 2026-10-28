@@ -106,3 +106,4 @@
 - Improving commit message clarity.
 - Learning about Merkle trees.
 - Studying reentrancy attack patterns.
+- Studying validator node operations.
