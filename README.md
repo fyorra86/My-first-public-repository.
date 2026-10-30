@@ -108,3 +108,4 @@
 - Studying reentrancy attack patterns.
 - Studying validator node operations.
 - Adding more development reflections.
+- Exploring token vesting mechanisms.
