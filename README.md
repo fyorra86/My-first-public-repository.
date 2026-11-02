@@ -109,3 +109,6 @@
 - Studying validator node operations.
 - Adding more development reflections.
 - Exploring token vesting mechanisms.
+
+## November
+- Reviewing blockchain scalability tradeoffs.
