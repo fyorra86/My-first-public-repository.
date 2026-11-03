@@ -112,3 +112,4 @@
 
 ## November
 - Reviewing blockchain scalability tradeoffs.
+- Improving repository transparency.
