@@ -114,3 +114,4 @@
 - Reviewing blockchain scalability tradeoffs.
 - Improving repository transparency.
 - Reviewing test coverage strategies.
+- Studying network latency impacts.
